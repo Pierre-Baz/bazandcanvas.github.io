@@ -20,7 +20,7 @@ This is the source code for [https://bazandcanvas.art](https://bazandcanvas.art)
 
 Want to feature, purchase, or inquire about artwork?
 
-- Email: `pierre@bazandcanvas.art`  
+- Email: `bazandcanvas@gmail.com`  
 - Instagram: [@bazandcanvas](https://instagram.com/bazandcanvas)  
 - Website: [https://bazandcanvas.art](https://bazandcanvas.art)
 
