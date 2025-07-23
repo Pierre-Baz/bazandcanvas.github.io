@@ -189,7 +189,6 @@
   margin-bottom: var(--dl-layout-space-unit);
   flex-direction: column;
   justify-content: flex-end;
-  color: rgba(165, 42, 42, 0.7);
 }
  
 .portofolio-card-slider {
